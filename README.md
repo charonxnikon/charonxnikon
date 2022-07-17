@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
 </div>
 
-
+https://istina.msu.ru/profile/xnikon/
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
