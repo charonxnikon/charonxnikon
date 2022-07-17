@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
 </div>
 
-https://istina.msu.ru/profile/xnikon/
+ <a href="https://istina.msu.ru/profile/xnikon/"><img src="https://github.com/charonxnikon/SHADERTOY_projects/blob/main/msu.png" width="100"/></a>
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
