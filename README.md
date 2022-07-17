@@ -1,10 +1,7 @@
-<div id="header" align="right">
-  <a href="https://istina.msu.ru/profile/xnikon/"><img src="https://github.com/charonxnikon/SHADERTOY_projects/blob/main/msu.png" width="100"/></a>  <a href="https://istina.msu.ru/profile/xnikon/"><img src="https://media.giphy.com/media/LdY9N2X4CrMzb4weLx/giphy.gif" width="100"/></a>
-</div>
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/IWiAPmq1HS9QZRu8PT/giphy-downsized-large.gif" width="100"/>
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
+  <a href="https://istina.msu.ru/profile/xnikon/"><img src="https://github.com/charonxnikon/SHADERTOY_projects/blob/main/msu.png" width="100"/></a>  <a href="https://istina.msu.ru/profile/xnikon/"><img src="https://media.giphy.com/media/LdY9N2X4CrMzb4weLx/giphy.gif" width="100"/></a>
 </div>
 
 ---
