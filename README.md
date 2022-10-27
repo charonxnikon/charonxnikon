@@ -39,12 +39,12 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Git3" **alt="Git3" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" title="Git3" **alt="Git3" width="40" height="40"/>
   <br>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Git3" **alt="Git3" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Git3" **alt="Git3" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="Git3" **alt="Git3" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Git3" **alt="Git3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Git3" **alt="Git3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original-wordmark.svg" title="Git3" **alt="Git3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Git3" **alt="Git3" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Git3" **alt="Git3" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Git3" **alt="Git3" width="40" height="40"/>
   <img src="https://cdn.cdnlogo.com/logos/c/57/clickhouse.svg" title="Git3" **alt="Git3" width="40" height="40"/>
   
