@@ -28,6 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Git3" **alt="Git3" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Git3" **alt="Git3" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git5" **alt="Git5" width="40" height="40"/>
+  <img src="https://github.com/charonxnikon/ECONOMICS_RMMC/blob/main/6299f743b04c5ae587c4119d.png" title="Git3" **alt="Git3" width="40" height="40"/>
   <br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
