@@ -41,7 +41,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" title="Git3" **alt="Git3" width="40" height="40"/>
   <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TeXShop_icon.png/768px-TeXShop_icon.png" title="Git3" **alt="Git3" width="40" height="40"/>
-  <img src="https://img2.freepng.ru/20180504/vtq/kisspng-computer-icons-google-docs-font-excel-icon-5aec444130cc64.8387960715254334091999.jpg" title="Git3" **alt="Git3" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2913/2913989.png" title="Git3" **alt="Git3" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Git3" **alt="Git3" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Git3" **alt="Git3" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="Git3" **alt="Git3" width="40" height="40"/>
