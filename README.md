@@ -31,7 +31,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Git3" **alt="Git3" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Git3" **alt="Git3" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git5" **alt="Git5" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Git5" **alt="Git5" width="40" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Git3" **alt="Git3" width="40" height="40"/>
   <br>
@@ -39,6 +38,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Git3" **alt="Git3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Git3" **alt="Git3" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Git3" **alt="Git3" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git5" **alt="Git5" width="40" height="40"/>
   <br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="Git3" **alt="Git3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Git3" **alt="Git3" width="40" height="40"/>
@@ -48,7 +48,6 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Git3" **alt="Git3" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Git3" **alt="Git3" width="40" height="40"/>
   <img src="https://cdn.cdnlogo.com/logos/c/57/clickhouse.svg" title="Git3" **alt="Git3" width="40" height="40"/>
-   <img src="" title="Git3" **alt="Git3" width="40" height="40"/>
   
   
 </div>
