@@ -35,6 +35,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Git3" **alt="Git3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Git3" **alt="Git3" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Git3" **alt="Git3" width="40" height="40"/>
+      <img src="https://images.ctfassets.net/w6r2i5d8q73s/5J5nDn6zB1RX2xdCocQcy6/43b468d72b99c0c2a147dda89dcb97b5/miro.png" title="Git3" **alt="Git3" width="40" height="40"/>
   <br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="Git3" **alt="Git3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Git3" **alt="Git3" width="40" height="40"/>
