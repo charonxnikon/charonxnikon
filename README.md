@@ -22,10 +22,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original-wordmark.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
   <br>
-     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MacOS_logo_%282017%29.svg/2060px-MacOS_logo_%282017%29.svg.png" title="Git3"**alt="Git3" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Git3" **alt="Git3" width="40" height="40"/>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Git3" **alt="Git3" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" title="Git3" **alt="Git3" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Git3" **alt="Git3" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Git3" **alt="Git3" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Git3" **alt="Git3" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Git3" **alt="Git3" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git5" **alt="Git5" width="40" height="40"/>
   <br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -34,11 +35,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Git5" **alt="Git5" width="40" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Git3" **alt="Git3" width="40" height="40"/>
   <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Git3" **alt="Git3" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Git3" **alt="Git3" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Git3" **alt="Git3" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="Git3" **alt="Git3" width="40" height="40"/>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git5" **alt="Git5" width="40" height="40"/>
+       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MacOS_logo_%282017%29.svg/2060px-MacOS_logo_%282017%29.svg.png" title="Git3"**alt="Git3" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Git3" **alt="Git3" width="40" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Git3" **alt="Git3" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" title="Git3" **alt="Git3" width="40" height="40"/>
   <br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="Git3" **alt="Git3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Git3" **alt="Git3" width="40" height="40"/>
