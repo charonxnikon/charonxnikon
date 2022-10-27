@@ -20,6 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="HTML54" alt="HTML54" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/drupal/drupal-original-wordmark.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
   <br>
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MacOS_logo_%282017%29.svg/2060px-MacOS_logo_%282017%29.svg.png" title="Git3"**alt="Git3" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Git3" **alt="Git3" width="40" height="40"/>
@@ -28,8 +29,11 @@
   <br>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Git3" **alt="Git3" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" title="Git3" **alt="Git3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git5" **alt="Git5" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Git5" **alt="Git5" width="40" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="Git3" **alt="Git3" width="40" height="40"/>
   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Git3" **alt="Git3" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Git3" **alt="Git3" width="40" height="40"/>
@@ -41,9 +45,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Git3" **alt="Git3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original-wordmark.svg" title="Git3" **alt="Git3" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Git3" **alt="Git3" width="40" height="40"/>
-
-
- 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Git3" **alt="Git3" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Git3" **alt="Git3" width="40" height="40"/>
+  <img src="https://cdn.cdnlogo.com/logos/c/57/clickhouse.svg" title="Git3" **alt="Git3" width="40" height="40"/>
+   <img src="" title="Git3" **alt="Git3" width="40" height="40"/>
+  
   
 </div>
 
