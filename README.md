@@ -4,7 +4,7 @@
   <a href="https://istina.msu.ru/profile/xnikon/"><img src="https://github.com/charonxnikon/SHADERTOY_projects/blob/main/msu.png" width="100"/></a>  <a href="https://istina.msu.ru/profile/xnikon/"><img src="https://media.giphy.com/media/LdY9N2X4CrMzb4weLx/giphy.gif" width="100"/></a>
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+ I+am+Nikonov+Maksim;AI+Researching,+Developing,+Analysis;AI+Researching,+Developing+Analysis!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+ I+am+Nikonov+Maksim;2+years+AI+Researching;4+years+Developing;3+years+Analysis&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 ---
 ### :hammer_and_wrench: Languages and Tools :
