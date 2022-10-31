@@ -4,7 +4,7 @@
   <a href="https://istina.msu.ru/profile/xnikon/"><img src="https://github.com/charonxnikon/SHADERTOY_projects/blob/main/msu.png" width="100"/></a>  <a href="https://istina.msu.ru/profile/xnikon/"><img src="https://media.giphy.com/media/LdY9N2X4CrMzb4weLx/giphy.gif" width="100"/></a>
 </div>
 <p align="center">
-  <img src="https://camo.githubusercontent.com/99920570356a774a77180472b749928383a48f2e4f04f088475002029abb4c42/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d2f3f6c696e65733d547970652b6d657373616765732b65766572797768657265213b4164642b612b62696f2b746f2b796f75722b70726f66696c65213b4164642b612b6465736372697074696f6e2b746f2b796f75722b7265706f213b4d616b652b796f75722b726561646d652b7374616e642b6f75742126666f6e743d46697261253230436f64652663656e7465723d747275652677696474683d333830266865696768743d3530266475726174696f6e3d343030302670617573653d31303030">
+  <img src="https://readme-typing-svg.demolab.com/?lines=CS MSU/+AI Masters+Vega Institute!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 </p>
 ---
 ### :hammer_and_wrench: Languages and Tools :
