@@ -52,7 +52,7 @@
     <img src="https://dbeaver.com/img/dbeaver-head.png" title="dbeaver" **alt="dbeaver" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" **alt="django" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" **alt="postgresql" width="40" height="40"/>
-    <img src="https://www.google.com/search?q=Apache+Kafka+png+&tbm=isch&ved=2ahUKEwiJlPbr2or7AhUJx4sKHbn2DJcQ2-cCegQIABAA&oq=Apache+Kafka+png+&gs_lcp=CgNpbWcQAzIECAAQHjIGCAAQBRAeMgYIABAIEB4yBggAEAgQHjIGCAAQCBAeOgQIABBDOgUIABCABDoGCAAQBxAeUMYDWJEIYKEJaABwAHgAgAGDAYgB1QSSAQMzLjOYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=2t9fY4m_JYmOrwS57bO4CQ&bih=814&biw=1680&rlz=1C5CHFA_enRU893RU893#imgrc=3psd9lSknmkIoM" title="Hadoop" **alt="Hadoop" width="120" height="40"/>
+    <img src="https://assets.confluent.io/files/6b784911-086f-509b-bcae-7639d6442eab?response_content_disposition=inline&version=a0b1ec4b&account_id=E3DC7592-BA56-4FFC-A81833635367E2D7&signature=hjTv%2FKvD%2Fzw3O2ROlLJajS7WyQNQpHrKSrJUfIBf1c06LR7s52xj7IzrC6%2Bd0ouT4Z15ZOG6mlKdwgC0CZEhBA%3D%3D&expiry=1667692800000" title="Hadoop" **alt="Hadoop" width="120" height="40"/>
   <img src="https://cdn.cdnlogo.com/logos/c/57/clickhouse.svg" title="clickhouse" **alt="clickhouse" width="40" height="40"/>
     <img src="https://www.clipartmax.com/png/full/256-2568235_just-tap-your-phone-to-get-hadoop-in-the-cloud-hadoop-hue.png" title="hue" **alt="hue" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/1024px-Hadoop_logo.svg.png" title="Hadoop" **alt="Hadoop" width="120" height="40"/>
