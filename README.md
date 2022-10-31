@@ -3,7 +3,9 @@
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
   <a href="https://istina.msu.ru/profile/xnikon/"><img src="https://github.com/charonxnikon/SHADERTOY_projects/blob/main/msu.png" width="100"/></a>  <a href="https://istina.msu.ru/profile/xnikon/"><img src="https://media.giphy.com/media/LdY9N2X4CrMzb4weLx/giphy.gif" width="100"/></a>
 </div>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
