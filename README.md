@@ -47,7 +47,6 @@
   <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TeXShop_icon.png/768px-TeXShop_icon.png" title="TeXShop" **alt="TeXShop" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" **alt="docker" width="40" height="40"/>
-  <img src="https://assets.confluent.io/files/6b784911-086f-509b-bcae-7639d6442eab?response_content_disposition=inline&version=a0b1ec4b&account_id=E3DC7592-BA56-4FFC-A81833635367E2D7&signature=hjTv%2FKvD%2Fzw3O2ROlLJajS7WyQNQpHrKSrJUfIBf1c06LR7s52xj7IzrC6%2Bd0ouT4Z15ZOG6mlKdwgC0CZEhBA%3D%3D&expiry=1667692800000" title="Hadoop" **alt="Hadoop" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" **alt="tensorflow" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original.svg" title="gimp" **alt="gimp" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="azure" **alt="azure" width="40" height="40"/>
