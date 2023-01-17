@@ -57,6 +57,6 @@
     <img src="https://www.clipartmax.com/png/full/256-2568235_just-tap-your-phone-to-get-hadoop-in-the-cloud-hadoop-hue.png" title="hue" **alt="hue" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hadoop_logo.svg/1024px-Hadoop_logo.svg.png" title="Hadoop" **alt="Hadoop" width="120" height="40"/>
   <img src="https://i0.wp.com/www.christian-ariza.net/wp-content/uploads/2018/06/pin_large.png?fit=1080%2C1080&ssl=1" title="Airflow" **alt="Airflow" width="40" height="40"/> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" title="Spark" **alt="Spark" width="120" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" title="Spark" **alt="Spark" width="80" height="40"/>
 </div>
 
